@@ -1,0 +1,3 @@
+module.exports = {
+    CRUD_MATERIAL_TO_INVENTORY: 'CRUD_MATERIAL_TO_INVENTORY'
+};
